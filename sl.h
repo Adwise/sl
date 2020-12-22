@@ -47,16 +47,16 @@
 
 #define D51DEL   "                                                      "
 
-#define COAL01 "                              "
-#define COAL02 "                              "
-#define COAL03 "    _________________         "
-#define COAL04 "   _|                \\_____A  "
-#define COAL05 " =|                        |  "
-#define COAL06 " -|       Adwise           |  "
-#define COAL07 "__|________________________|_ "
-#define COAL08 "|__________________________|_ "
-#define COAL09 "   |_D__D__D_|  |_D__D__D_|   "
-#define COAL10 "    \\_/   \\_/    \\_/   \\_/    "
+#define COAL01 "                                 "
+#define COAL02 "    _________________            "
+#define COAL03 "   _|                \\________A "
+#define COAL04 " =|      __          __   ___ |  "
+#define COAL05 "  | /\\  |  \\ |  | | /__` |__  |  "
+#define COAL06 " -|/~~\\ |__/ |/\\| | .__/ |___ |  "
+#define COAL07 "__|___________________________|_ "
+#define COAL08 "|_____________________________|_ "
+#define COAL09 "     |_D__D__D_|  |_D__D__D_|      "
+#define COAL10 "    \\_/   \\_/    \\_/   \\_/   "
 
 #define COALDEL "                              "
 
