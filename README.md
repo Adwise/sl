@@ -1,4 +1,4 @@
-SL(1): Cure your bad habit of mistyping
+The Adwise Typo Train
 =======================================
 
 SL (Steam Locomotive) runs across your terminal when you type "sl" as
