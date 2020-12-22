@@ -56,7 +56,7 @@
 #define COAL07 "__|___________________________|_ "
 #define COAL08 "|_____________________________|_ "
 #define COAL09 "     |_D__D__D_|  |_D__D__D_|      "
-#define COAL10 "    \\_/   \\_/    \\_/   \\_/   "
+#define COAL10 "      \\_/   \\_/    \\_/   \\_/   "
 
 #define COALDEL "                              "
 
